@@ -10,43 +10,43 @@ body {
   font-family: Arial, Helvetica;
 }
 
-#logo {
-  position: fixed;
-  top: 25%;
-  left: 50%;
-  transform: translate(-50%, -50%);
+#outer {
+    width: 100%;
 }
 
-#logo p {
-    font-weight: bold;
-    text-align: center;
+#content {
+    display: flex;
+    max-width: 800px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
-#values {
-  position: fixed;
-  top: 60%;
-  left: 50%;
-  transform: translate(-50%, -50%);
+#content img {
+    width: 100%;
+    max-width: 600px;
 }
 
-#values h1 {
+#content h1 {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+#content h2 {
     margin-bottom: 10px;
-    text-align: center;
+    width: 100%;
+
 }
 
-#values h2 {
-    margin-bottom: 10px;
+#content p {
+    text-align: left;
+    width: 100%;
+    margin-bottom: 20px;
 }
 
-#values p {
-    margin-bottom: 10px;
+#copyright {
+    margin-top: 60px;
 }
-
-#bottom {
-  position: fixed;
-  top: 90%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-}
-
-
