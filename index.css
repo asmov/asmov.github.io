@@ -10,11 +10,36 @@ body {
   font-family: Arial, Helvetica;
 }
 
-#center {
+#logo {
   position: fixed;
-  top: 50%;
+  top: 25%;
   left: 50%;
   transform: translate(-50%, -50%);
+}
+
+#logo p {
+    font-weight: bold;
+    text-align: center;
+}
+
+#values {
+  position: fixed;
+  top: 60%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+#values h1 {
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+#values h2 {
+    margin-bottom: 10px;
+}
+
+#values p {
+    margin-bottom: 10px;
 }
 
 #bottom {
@@ -23,3 +48,5 @@ body {
   left: 50%;
   transform: translate(-50%, -50%);
 }
+
+
