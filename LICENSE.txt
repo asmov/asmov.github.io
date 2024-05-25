@@ -1,0 +1,3 @@
+www.asmov.software
+Copyright (C) 2024 Asmov LLC
+All rights reserved.
