@@ -1,0 +1,37 @@
+<!--
+bak8 logo
+Copyright (c) 2025 Asmov LLC
+-->
+<svg
+    version="1.1" xmlns="http://www.w3.org/2000/svg"
+    width="600" height="600"
+    viewBox="0 0 600 360" >
+<style>
+    path.infinity {
+        fill: none;
+        stroke: white;
+        stroke-width: 30;
+    }
+
+    line.bar {
+        stroke: black;
+        stroke-width: 40;
+        stroke-linecap: round;
+    }
+</style>
+
+<line class="bar" x1="30" y1="30" x2="570" y2="30" />
+<line class="bar" x1="30" y1="80" x2="570" y2="80" />
+<line class="bar" x1="30" y1="130" x2="570" y2="130" />
+<line class="bar" x1="30" y1="180" x2="570" y2="180" />
+<line class="bar" x1="30" y1="230" x2="570" y2="230" />
+<line class="bar" x1="30" y1="280" x2="570" y2="280" />
+<line class="bar" x1="30" y1="330" x2="570" y2="330" />
+
+<path class="infinity"
+    d="M 100,100 
+    C 200,0 200,200 100,100
+    C 0,0 0,200 100,100z"
+    transform="scale(2.5) translate(20,-28)"/>
+
+</svg>

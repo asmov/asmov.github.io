@@ -1,0 +1,40 @@
+<!--
+dirz logo
+Copyright (c) 2025 Asmov LLC
+-->
+<svg
+    version="1.1" xmlns="http://www.w3.org/2000/svg"
+    width="800" height="650"
+    viewBox="0 0 800 650" >
+<style>
+    path.folder {
+        fill: none;
+        stroke: cyan;
+        stroke-width: 10;
+    }
+
+    path.z {
+        fill: none;
+        stroke: cyan;
+        stroke-width: 40;
+    }
+</style>
+
+<path class="folder" d="
+    M 6 56
+    V 638
+    H 792
+    V 6
+    H 488
+    L 438 56
+    Z" />
+
+<path class="z" d="
+    M 200 150    
+    H 600
+    L 200 550
+    H 600
+    M 300 350
+    h 200" />
+
+</svg>
