@@ -15,6 +15,6 @@ If an issue does not exist, create one and tell us how to reproduce the bug.
 License (Reserved)
 --------------------------------------------------------------------------------
 asmov.software: Website for Asmov LLC  
-Copyright (C) 2025 (Asmov LLC)[https://asmov.software]  
+Copyright (C) 2025 [Asmov LLC](https://asmov.software)  
 All rights reserved.
 
