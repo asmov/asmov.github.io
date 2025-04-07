@@ -5,15 +5,18 @@ All rights reserved.
 -->
 <svg
     version="1.1" xmlns="http://www.w3.org/2000/svg"
-    width="500" height="500"
-    viewBox="0 0 500 500">
+    width="520" height="520"
+    viewBox="0 0 520 520">
 <style>
 polygon {
     fill: yellow;
+    stroke: black;
+    stroke-width: 20;
 }
 </style>
 
-<polygon points="125,5 495,5 405,475" />
-<polygon points="105,25 5,495 385,495" />
+
+<polygon class="fg" points="131,15 501,15 411,485" />
+<polygon class="fg" points="118,32 17,502 398,502" />
 
 </svg>
