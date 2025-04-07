@@ -123,6 +123,25 @@ div.contact div {
     text-align: left;
 }
 
+div.platforms {
+    display: flex;
+}
+
+div.platform {
+    margin-bottom: 20px;
+}
+
+div.platform img {
+    max-width: 80px;
+    max-height: 80px;
+    border-radius: 50%;    
+}
+
+div.platform img:hover {
+    max-width: 100px;
+    max-height: 100px;
+}
+
 #copyright {
     text-align: right;
     margin: 20px 5px 10px 0;
