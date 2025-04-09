@@ -13,7 +13,7 @@ Copyright (C) 2025 Asmov LLC
 
     @media (prefers-color-scheme: dark) {
         svg {
-            stroke: gray;
+            stroke: #9aa0a6;
         }
     }
 
