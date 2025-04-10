@@ -48,6 +48,7 @@ a:visited {
 }
 
 #content h1.slogan {
+    color: #9aa0a6;
     font-size: 1em;
     margin-top: 1em;
     margin-bottom: 0.5em;
@@ -59,10 +60,14 @@ a:visited {
 }
 
 #content p {
+    padding: 0 0 0 0px;
     font-size: 1.2em;
     text-align: left;
-    margin-left: 1.2em;
     margin-bottom: 1em;
+    width: 100%;
+}
+
+div.product-line {
     width: 100%;
 }
 
@@ -79,6 +84,9 @@ div.product-line img {
     margin: 0 0 0 10px;
     padding: none;
     float: right;
+}
+
+div.product-line p {
 }
 
 div.product-line p a {
