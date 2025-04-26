@@ -55,8 +55,13 @@ a:visited {
 }
 
 #content h1 {
+    font-size: 18px;
     margin-top: 0.5em;
     margin-bottom: 0.5em;
+}
+
+#content h2 {
+    font-size: 16px;
 }
 
 #content p {
